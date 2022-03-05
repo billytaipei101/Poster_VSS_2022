@@ -1,0 +1,328 @@
+\begin{thebibliography}{}
+
+\bibitem[Aust and Barth, 2020]{R-papaja}
+Aust, F. and Barth, M. (2020).
+\newblock {\em {papaja}: {Prepare} reproducible {APA} journal articles with {R
+  Markdown}}.
+\newblock R package version 0.1.0.9997.
+
+\bibitem[Baddeley and Hitch, 1974]{baddeley1974working}
+Baddeley, A.~D. and Hitch, G. (1974).
+\newblock Working memory.
+\newblock In {\em Psychology of learning and motivation}, volume~8, pages
+  47--89. Elsevier.
+
+\bibitem[Barth, 2021]{R-tinylabels}
+Barth, M. (2021).
+\newblock {\em {tinylabels}: Lightweight Variable Labels}.
+\newblock R package version 0.2.1.
+
+\bibitem[Boonstra et~al., 2013]{boonstra2013effects}
+Boonstra, T.~W., Powell, T.~Y., Mehrkanoon, S., and Breakspear, M. (2013).
+\newblock Effects of mnemonic load on cortical activity during visual working
+  memory: linking ongoing brain activity with evoked responses.
+\newblock {\em International journal of psychophysiology}, 89(3):409--418.
+
+\bibitem[Borchers, 2021]{R-pracma}
+Borchers, H.~W. (2021).
+\newblock {\em pracma: Practical Numerical Math Functions}.
+\newblock R package version 2.3.3.
+
+\bibitem[Brandt et~al., 2020]{brandt2020respiratory}
+Brandt, E., Wilson, J.~K., Rieger, R.~E., Gill, D., Mayer, A.~R., and Cavanagh,
+  J.~F. (2020).
+\newblock Respiratory sinus arrhythmia correlates with depressive symptoms
+  following mild traumatic brain injury.
+\newblock {\em Journal of Psychophysiology}.
+
+\bibitem[Broadway et~al., 2018]{broadway2018dopamine}
+Broadway, J.~M., Frank, M.~J., and Cavanagh, J.~F. (2018).
+\newblock Dopamine d2 agonist affects visuospatial working memory distractor
+  interference depending on individual differences in baseline working memory
+  span.
+\newblock {\em Cognitive, Affective, \& Behavioral Neuroscience},
+  18(3):509--520.
+
+\bibitem[Broadway et~al., 2019]{broadway2019executive}
+Broadway, J.~M., Rieger, R.~E., Campbell, R.~A., Quinn, D.~K., Mayer, A.~R.,
+  Yeo, R.~A., Wilson, J.~K., Gill, D., Fratzke, V., and Cavanagh, J.~F. (2019).
+\newblock Executive function predictors of delayed memory deficits after mild
+  traumatic brain injury.
+\newblock {\em cortex}, 120:240--248.
+
+\bibitem[Cavanagh, 2021]{ds003523}
+Cavanagh, J.~F. (2021).
+\newblock "eeg: Visual working memory in acute tbi".
+
+\bibitem[Cavanagh et~al., 2020]{cavanagh2020joint}
+Cavanagh, J.~F., Rieger, R.~E., Wilson, J.~K., Gill, D., Fullerton, L., Brandt,
+  E., and Mayer, A.~R. (2020).
+\newblock Joint analysis of frontal theta synchrony and white matter following
+  mild traumatic brain injury.
+\newblock {\em Brain imaging and behavior}, 14(6):2210--2223.
+
+\bibitem[Daróczi and Tsegelskyi, 2021]{R-pander}
+Daróczi, G. and Tsegelskyi, R. (2021).
+\newblock {\em pander: An R 'Pandoc' Writer}.
+\newblock R package version 0.6.4.
+
+\bibitem[Delorme and Makeig, 2004]{delorme2004eeglab}
+Delorme, A. and Makeig, S. (2004).
+\newblock Eeglab: an open source toolbox for analysis of single-trial eeg
+  dynamics including independent component analysis.
+\newblock {\em Journal of neuroscience methods}, 134(1):9--21.
+
+\bibitem[Firke, 2021]{R-janitor}
+Firke, S. (2021).
+\newblock {\em janitor: Simple Tools for Examining and Cleaning Dirty Data}.
+\newblock R package version 2.1.0.
+
+\bibitem[Fox and Weisberg, 2019]{R-car}
+Fox, J. and Weisberg, S. (2019).
+\newblock {\em An {R} Companion to Applied Regression}.
+\newblock Sage, Thousand Oaks {CA}, third edition.
+
+\bibitem[Fox et~al., 2020]{R-carData}
+Fox, J., Weisberg, S., and Price, B. (2020).
+\newblock {\em carData: Companion to Applied Regression Data Sets}.
+\newblock R package version 3.0-4.
+
+\bibitem[Helwig, 2014]{R-eegkitdata}
+Helwig, N.~E. (2014).
+\newblock {\em eegkitdata: Data for package eegkit}.
+\newblock R package version 1.0.
+
+\bibitem[Helwig, 2018a]{R-bigsplines}
+Helwig, N.~E. (2018a).
+\newblock {\em bigsplines: Smoothing Splines for Large Samples}.
+\newblock R package version 1.1-1.
+
+\bibitem[Helwig, 2018b]{R-eegkit}
+Helwig, N.~E. (2018b).
+\newblock {\em eegkit: Toolkit for Electroencephalography Data}.
+\newblock R package version 1.0-4.
+
+\bibitem[Helwig, 2018c]{R-ica}
+Helwig, N.~E. (2018c).
+\newblock {\em ica: Independent Component Analysis}.
+\newblock R package version 1.0-2.
+
+\bibitem[Henry and Wickham, 2020]{R-purrr}
+Henry, L. and Wickham, H. (2020).
+\newblock {\em purrr: Functional Programming Tools}.
+\newblock R package version 0.3.4.
+
+\bibitem[Hindriks and van Putten, 2013]{hindriks2013thalamo}
+Hindriks, R. and van Putten, M.~J. (2013).
+\newblock Thalamo-cortical mechanisms underlying changes in amplitude and
+  frequency of human alpha oscillations.
+\newblock {\em Neuroimage}, 70:150--163.
+
+\bibitem[Howard et~al., 2003]{howard2003gamma}
+Howard, M.~W., Rizzuto, D.~S., Caplan, J.~B., Madsen, J.~R., Lisman, J.,
+  Aschenbrenner-Scheibe, R., Schulze-Bonhage, A., and Kahana, M.~J. (2003).
+\newblock Gamma oscillations correlate with working memory load in humans.
+\newblock {\em Cerebral cortex}, 13(12):1369--1374.
+
+\bibitem[J, 2006]{R-plotrix}
+J, L. (2006).
+\newblock Plotrix: a package in the red light district of r.
+\newblock {\em R-News}, 6(4):8--12.
+
+\bibitem[Johannesen et~al., 2016]{johannesen2016machine}
+Johannesen, J.~K., Bi, J., Jiang, R., Kenney, J.~G., and Chen, C.-M.~A. (2016).
+\newblock Machine learning identification of eeg features predicting working
+  memory performance in schizophrenia and healthy adults.
+\newblock {\em Neuropsychiatric electrophysiology}, 2(1):1--21.
+
+\bibitem[Kane and Engle, 2002]{kane2002role}
+Kane, M.~J. and Engle, R.~W. (2002).
+\newblock The role of prefrontal cortex in working-memory capacity, executive
+  attention, and general fluid intelligence: An individual-differences
+  perspective.
+\newblock {\em Psychonomic bulletin \& review}, 9(4):637--671.
+
+\bibitem[Karatzoglou et~al., 2004]{R-kernlab}
+Karatzoglou, A., Smola, A., Hornik, K., and Zeileis, A. (2004).
+\newblock kernlab -- an {S4} package for kernel methods in {R}.
+\newblock {\em Journal of Statistical Software}, 11(9):1--20.
+
+\bibitem[Kassambara, 2020]{R-ggpubr}
+Kassambara, A. (2020).
+\newblock {\em ggpubr: 'ggplot2' Based Publication Ready Plots}.
+\newblock R package version 0.4.0.
+
+\bibitem[Kelley and Richards, 2021]{R-oce}
+Kelley, D. and Richards, C. (2021).
+\newblock {\em oce: Analysis of Oceanographic Data}.
+\newblock R package version 1.4-0.
+
+\bibitem[Kelley et~al., 2017]{R-gsw}
+Kelley, D., Richards, C., and SCOR/IAPSO, W. (2017).
+\newblock {\em gsw: Gibbs Sea Water Functions}.
+\newblock R package version 1.0-5.
+
+\bibitem[Klimesch, 1997]{klimesch1997eeg}
+Klimesch, W. (1997).
+\newblock Eeg-alpha rhythms and memory processes.
+\newblock {\em International Journal of psychophysiology}, 26(1-3):319--340.
+
+\bibitem[Klimesch, 1999]{klimesch1999eeg}
+Klimesch, W. (1999).
+\newblock Eeg alpha and theta oscillations reflect cognitive and memory
+  performance: a review and analysis.
+\newblock {\em Brain research reviews}, 29(2-3):169--195.
+
+\bibitem[Kuhn, 2021]{R-caret}
+Kuhn, M. (2021).
+\newblock {\em caret: Classification and Regression Training}.
+\newblock R package version 6.0-88.
+
+\bibitem[Lawrence, 2016]{R-ez}
+Lawrence, M.~A. (2016).
+\newblock {\em ez: Easy Analysis and Visualization of Factorial Experiments}.
+\newblock R package version 4.4-0.
+
+\bibitem[Liaw and Wiener, 2002]{R-randomForest}
+Liaw, A. and Wiener, M. (2002).
+\newblock Classification and regression by randomforest.
+\newblock {\em R News}, 2(3):18--22.
+
+\bibitem[Luck, 2014]{luck2014introduction}
+Luck, S.~J. (2014).
+\newblock {\em An introduction to the event-related potential technique}.
+\newblock MIT press.
+
+\bibitem[Meyer et~al., 2021]{R-e1071}
+Meyer, D., Dimitriadou, E., Hornik, K., Weingessel, A., and Leisch, F. (2021).
+\newblock {\em e1071: Misc Functions of the Department of Statistics,
+  Probability Theory Group (Formerly: E1071), TU Wien}.
+\newblock R package version 1.7-7.
+
+\bibitem[Murdoch and Adler, 2021]{R-rgl}
+Murdoch, D. and Adler, D. (2021).
+\newblock {\em rgl: 3D Visualization Using OpenGL}.
+\newblock R package version 0.106.8.
+
+\bibitem[Müller and Wickham, 2021]{R-tibble}
+Müller, K. and Wickham, H. (2021).
+\newblock {\em tibble: Simple Data Frames}.
+\newblock R package version 3.1.2.
+
+\bibitem[original by Berwin A. Turlach R port by Andreas Weingessel
+  <Andreas.Weingessel@ci.tuwien.ac.at> Fortran contributions~from Cleve
+  Moler~dpodi/LINPACK), 2019]{R-quadprog}
+original by Berwin A. Turlach R port by Andreas Weingessel
+  <Andreas.Weingessel@ci.tuwien.ac.at> Fortran contributions~from Cleve
+  Moler~dpodi/LINPACK), S. (2019).
+\newblock {\em quadprog: Functions to Solve Quadratic Programming Problems}.
+\newblock R package version 1.5-8.
+
+\bibitem[Pebesma, 2018]{R-sf}
+Pebesma, E. (2018).
+\newblock {Simple Features for R: Standardized Support for Spatial Vector
+  Data}.
+\newblock {\em {The R Journal}}, 10(1):439--446.
+
+\bibitem[{R Core Team}, 2020]{R-base}
+{R Core Team} (2020).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[Revelle, 2021]{R-psych}
+Revelle, W. (2021).
+\newblock {\em psych: Procedures for Psychological, Psychometric, and
+  Personality Research}.
+\newblock Northwestern University, Evanston, Illinois.
+\newblock R package version 2.1.3.
+
+\bibitem[Rinker and Kurkiewicz, 2018]{R-pacman}
+Rinker, T.~W. and Kurkiewicz, D. (2018).
+\newblock {\em {pacman}: {P}ackage Management for {R}}.
+\newblock Buffalo, New York.
+\newblock version 0.5.0.
+
+\bibitem[Sarkar, 2008]{R-lattice}
+Sarkar, D. (2008).
+\newblock {\em Lattice: Multivariate Data Visualization with R}.
+\newblock Springer, New York.
+\newblock ISBN 978-0-387-75968-5.
+
+\bibitem[Schauberger and Walker, 2020]{R-openxlsx}
+Schauberger, P. and Walker, A. (2020).
+\newblock {\em openxlsx: Read, Write and Edit xlsx Files}.
+\newblock R package version 4.2.3.
+
+\bibitem[Schloerke et~al., 2021]{R-GGally}
+Schloerke, B., Cook, D., Larmarange, J., Briatte, F., Marbach, M., Thoen, E.,
+  Elberg, A., and Crowley, J. (2021).
+\newblock {\em GGally: Extension to 'ggplot2'}.
+\newblock R package version 2.1.1.
+
+\bibitem[{signal developers}, 2014]{R-signal}
+{signal developers} (2014).
+\newblock {\em {signal}: Signal processing}.
+
+\bibitem[Stanley, 2021]{R-apaTables}
+Stanley, D. (2021).
+\newblock {\em apaTables: Create American Psychological Association (APA) Style
+  Tables}.
+\newblock R package version 2.0.8.
+
+\bibitem[Vis, 2019]{R-edfReader}
+Vis, J. (2019).
+\newblock {\em edfReader: Reading EDF(+) and BDF(+) Files}.
+\newblock R package version 1.2.1.
+
+\bibitem[Wickham, 2011a]{R-plyr}
+Wickham, H. (2011a).
+\newblock The split-apply-combine strategy for data analysis.
+\newblock {\em Journal of Statistical Software}, 40(1):1--29.
+
+\bibitem[Wickham, 2011b]{R-testthat}
+Wickham, H. (2011b).
+\newblock testthat: Get started with testing.
+\newblock {\em The R Journal}, 3:5--10.
+
+\bibitem[Wickham, 2016]{R-ggplot2}
+Wickham, H. (2016).
+\newblock {\em ggplot2: Elegant Graphics for Data Analysis}.
+\newblock Springer-Verlag New York.
+
+\bibitem[Wickham, 2019]{R-stringr}
+Wickham, H. (2019).
+\newblock {\em stringr: Simple, Consistent Wrappers for Common String
+  Operations}.
+\newblock R package version 1.4.0.
+
+\bibitem[Wickham, 2021a]{R-forcats}
+Wickham, H. (2021a).
+\newblock {\em forcats: Tools for Working with Categorical Variables
+  (Factors)}.
+\newblock R package version 0.5.1.
+
+\bibitem[Wickham, 2021b]{R-tidyr}
+Wickham, H. (2021b).
+\newblock {\em tidyr: Tidy Messy Data}.
+\newblock R package version 1.1.3.
+
+\bibitem[Wickham et~al., 2019]{R-tidyverse}
+Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L.~D., François, R.,
+  Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen, T.~L.,
+  Miller, E., Bache, S.~M., Müller, K., Ooms, J., Robinson, D., Seidel, D.~P.,
+  Spinu, V., Takahashi, K., Vaughan, D., Wilke, C., Woo, K., and Yutani, H.
+  (2019).
+\newblock Welcome to the {tidyverse}.
+\newblock {\em Journal of Open Source Software}, 4(43):1686.
+
+\bibitem[Wickham et~al., 2021]{R-dplyr}
+Wickham, H., François, R., Henry, L., and Müller, K. (2021).
+\newblock {\em dplyr: A Grammar of Data Manipulation}.
+\newblock R package version 1.0.6.
+
+\bibitem[Wickham and Hester, 2020]{R-readr}
+Wickham, H. and Hester, J. (2020).
+\newblock {\em readr: Read Rectangular Text Data}.
+\newblock R package version 1.4.0.
+
+\end{thebibliography}

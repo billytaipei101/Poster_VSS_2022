@@ -4,46 +4,50 @@ The top-level auxiliary file: main.aux
 The style file: apalike.bst
 Database file #1: r-references.bib
 Warning--entry type for "ds003523" isn't style-file defined
---line 128 of file r-references.bib
-You've used 58 entries,
+--line 22 of file r-references.bib
+Repeated entry---line 157 of file r-references.bib
+ : @dataset{ds003523
+ :                  ,
+I'm skipping whatever remains of this entry
+You've used 54 entries,
             1935 wiz_defined-function locations,
-            800 strings with 12327 characters,
-and the built_in function-call counts, 20301 in all, are:
-= -- 1928
-> -- 910
-< -- 46
-+ -- 318
-- -- 306
-* -- 1663
-:= -- 3672
-add.period$ -- 176
-call.type$ -- 58
-change.case$ -- 407
-chr.to.int$ -- 54
-cite$ -- 58
-duplicate$ -- 785
-empty$ -- 1347
-format.name$ -- 394
-if$ -- 3816
+            782 strings with 11889 characters,
+and the built_in function-call counts, 19483 in all, are:
+= -- 1852
+> -- 892
+< -- 40
++ -- 316
+- -- 302
+* -- 1627
+:= -- 3510
+add.period$ -- 163
+call.type$ -- 54
+change.case$ -- 391
+chr.to.int$ -- 50
+cite$ -- 54
+duplicate$ -- 735
+empty$ -- 1286
+format.name$ -- 382
+if$ -- 3665
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 28
-newline$ -- 294
-num.names$ -- 174
-pop$ -- 371
+missing$ -- 30
+newline$ -- 273
+num.names$ -- 162
+pop$ -- 352
 preamble$ -- 1
-purify$ -- 443
+purify$ -- 421
 quote$ -- 0
-skip$ -- 620
+skip$ -- 576
 stack$ -- 0
-substring$ -- 1109
-swap$ -- 98
+substring$ -- 1113
+swap$ -- 88
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 340
+type$ -- 316
 warning$ -- 0
-while$ -- 152
+while$ -- 148
 width$ -- 0
-write$ -- 726
-(There was 1 warning)
+write$ -- 677
+(There was 1 error message)

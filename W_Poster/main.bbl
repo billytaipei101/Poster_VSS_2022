@@ -1,10 +1,10 @@
 \begin{thebibliography}{}
 
-\bibitem[Aust and Barth, 2020]{R-papaja}
-Aust, F. and Barth, M. (2020).
-\newblock {\em {papaja}: {Prepare} reproducible {APA} journal articles with {R
-  Markdown}}.
-\newblock R package version 0.1.0.9997.
+\bibitem[Ablin et~al., 2018]{ablin2018faster}
+Ablin, P., Cardoso, J.-F., and Gramfort, A. (2018).
+\newblock Faster independent component analysis by preconditioning with hessian
+  approximations.
+\newblock {\em IEEE Transactions on Signal Processing}, 66(15):4040--4049.
 
 \bibitem[Baddeley and Hitch, 1974]{baddeley1974working}
 Baddeley, A.~D. and Hitch, G. (1974).
@@ -12,21 +12,11 @@ Baddeley, A.~D. and Hitch, G. (1974).
 \newblock In {\em Psychology of learning and motivation}, volume~8, pages
   47--89. Elsevier.
 
-\bibitem[Barth, 2021]{R-tinylabels}
-Barth, M. (2021).
-\newblock {\em {tinylabels}: Lightweight Variable Labels}.
-\newblock R package version 0.2.1.
-
 \bibitem[Boonstra et~al., 2013]{boonstra2013effects}
 Boonstra, T.~W., Powell, T.~Y., Mehrkanoon, S., and Breakspear, M. (2013).
 \newblock Effects of mnemonic load on cortical activity during visual working
   memory: linking ongoing brain activity with evoked responses.
 \newblock {\em International journal of psychophysiology}, 89(3):409--418.
-
-\bibitem[Borchers, 2021]{R-pracma}
-Borchers, H.~W. (2021).
-\newblock {\em pracma: Practical Numerical Math Functions}.
-\newblock R package version 2.3.3.
 
 \bibitem[Brandt et~al., 2020]{brandt2020respiratory}
 Brandt, E., Wilson, J.~K., Rieger, R.~E., Gill, D., Mayer, A.~R., and Cavanagh,
@@ -60,6 +50,12 @@ Cavanagh, J.~F., Rieger, R.~E., Wilson, J.~K., Gill, D., Fullerton, L., Brandt,
 \newblock Joint analysis of frontal theta synchrony and white matter following
   mild traumatic brain injury.
 \newblock {\em Brain imaging and behavior}, 14(6):2210--2223.
+
+\bibitem[Chaumon et~al., 2015]{chaumon2015practical}
+Chaumon, M., Bishop, D.~V., and Busch, N.~A. (2015).
+\newblock A practical guide to the selection of independent components of the
+  electroencephalogram for artifact correction.
+\newblock {\em Journal of neuroscience methods}, 250:47--63.
 
 \bibitem[Daróczi and Tsegelskyi, 2021]{R-pander}
 Daróczi, G. and Tsegelskyi, R. (2021).
@@ -106,11 +102,6 @@ Helwig, N.~E. (2018b).
 Helwig, N.~E. (2018c).
 \newblock {\em ica: Independent Component Analysis}.
 \newblock R package version 1.0-2.
-
-\bibitem[Henry and Wickham, 2020]{R-purrr}
-Henry, L. and Wickham, H. (2020).
-\newblock {\em purrr: Functional Programming Tools}.
-\newblock R package version 0.3.4.
 
 \bibitem[Hindriks and van Putten, 2013]{hindriks2013thalamo}
 Hindriks, R. and van Putten, M.~J. (2013).
@@ -209,15 +200,6 @@ Müller, K. and Wickham, H. (2021).
 \newblock {\em tibble: Simple Data Frames}.
 \newblock R package version 3.1.2.
 
-\bibitem[original by Berwin A. Turlach R port by Andreas Weingessel
-  <Andreas.Weingessel@ci.tuwien.ac.at> Fortran contributions~from Cleve
-  Moler~dpodi/LINPACK), 2019]{R-quadprog}
-original by Berwin A. Turlach R port by Andreas Weingessel
-  <Andreas.Weingessel@ci.tuwien.ac.at> Fortran contributions~from Cleve
-  Moler~dpodi/LINPACK), S. (2019).
-\newblock {\em quadprog: Functions to Solve Quadratic Programming Problems}.
-\newblock R package version 1.5-8.
-
 \bibitem[Pebesma, 2018]{R-sf}
 Pebesma, E. (2018).
 \newblock {Simple Features for R: Standardized Support for Spatial Vector
@@ -228,13 +210,6 @@ Pebesma, E. (2018).
 {R Core Team} (2020).
 \newblock {\em R: A Language and Environment for Statistical Computing}.
 \newblock R Foundation for Statistical Computing, Vienna, Austria.
-
-\bibitem[Revelle, 2021]{R-psych}
-Revelle, W. (2021).
-\newblock {\em psych: Procedures for Psychological, Psychometric, and
-  Personality Research}.
-\newblock Northwestern University, Evanston, Illinois.
-\newblock R package version 2.1.3.
 
 \bibitem[Rinker and Kurkiewicz, 2018]{R-pacman}
 Rinker, T.~W. and Kurkiewicz, D. (2018).

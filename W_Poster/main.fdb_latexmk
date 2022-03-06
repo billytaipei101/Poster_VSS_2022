@@ -1,16 +1,9 @@
 # Fdb version 3
-["bibtex main"] 1645415251 "main.aux" "main.bbl" "main" 1646471108
-  "/Users/williamcruz/Library/TinyTeX/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "main.aux" 1646471108 4676 8a0b014f0417635c7c66a2fbb18b0354 "xelatex"
-  "r-references.bib" 1624527494 16088 e3b9216d4ad9718218b29ed1050996c8 ""
-  (generated)
-  "main.bbl"
-  "main.blg"
-["xdvipdfmx"] 1646471108 "main.xdv" "main.pdf" "main" 1646471108
-  "main.xdv" 1646471108 187656 96f71bd9b3f19e9c3d6cf0df329f5b8a "xelatex"
+["xdvipdfmx"] 1646536628 "main.xdv" "main.pdf" "main" 1646536628
+  "main.xdv" 1646536628 96544 2702bbb18a7c0cdfd979a69ef87e331a "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1646471107 "main.tex" "main.xdv" "main" 1646471108
+["xelatex"] 1646536627 "main.tex" "main.xdv" "main" 1646536628
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -28,9 +21,6 @@
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm" 1148093231 1308 02cc510f9dd6012e5815d0c0ffbf6869 ""
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm" 1148093231 1300 b0605d44c16c22d99dc001808e4f24ea ""
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmsy8.tfm" 1148093231 1304 cdc9a17df9ef0d2dc320eff37bbab1c4 ""
-  "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmbx12.tfm" 1254269338 11880 ea60d06924270684e6f852f3141c992b ""
-  "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmbx6.tfm" 1254269338 11852 eda7061aa4cc8552ba736dae866e4460 ""
-  "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmbx8.tfm" 1254269338 11868 731e03b24d399279cf9609d002110394 ""
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmr12.tfm" 1254269338 11888 6841b91e46b65cf41a49b160e6e74130 ""
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmr17.tfm" 1254269338 11948 fa976674f030491ad35532a8a1e37325 ""
   "/Users/williamcruz/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm" 1254269338 11836 e3b6ce3e601aec94f64a536e7f4224d5 ""
@@ -283,20 +273,20 @@
   "/Users/williamcruz/Library/TinyTeX/texmf.cnf" 1622740637 685 b6d9e3e1e407dea430338b5a2833b69d ""
   "beamercolorthemeucf.sty" 1644977544 2038 60534618169575144aa800af29d9086b ""
   "beamerthemegemini.sty" 1644977544 5958 2865d8ad9a11bcdb9ce4b828ede82938 ""
+  "img/QRtiger.png" 1646474781 34508 3559402217e8c0bc984315a306d1a5b9 ""
   "img/VSWM_task.png" 1646470012 44341 e3a97cd8aaec5819155502b036d162e1 ""
   "img/bids2.png" 1646456261 6201 9f3b82f1aa8e60b6479e44e31db33ea8 ""
   "logos/University_of_New_Mexico.png" 1645179764 39931 360e7da5a652933fe6cad5a098317236 ""
   "logos/z_logo.png" 1554171284 160895 e5006aed7b807175d40bccb118bfc3fb ""
-  "main.aux" 1646471108 4676 8a0b014f0417635c7c66a2fbb18b0354 "xelatex"
-  "main.bbl" 1645415251 12277 7c0fc48a27d05a91a50cd9300d2809bf "bibtex main"
-  "main.nav" 1646471108 485 8ad38786aae60a3e64b30504fae6b5b9 "xelatex"
-  "main.out" 1646471108 93 aea4b6a8ae45636c75679c2f0dfa4493 "xelatex"
-  "main.tex" 1646471106 12349 cfb3761f41ed8e6a875194fe3bf7750e ""
+  "main.aux" 1646536628 1463 e692ac97e037ad5672b902239569b42b "xelatex"
+  "main.nav" 1646536628 307 9e520c26371a1250ff9fc1fe87f9c655 "xelatex"
+  "main.out" 1646536627 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "main.tex" 1646536624 13001 89333408b675179c963f0f1843163a8f ""
   (generated)
-  "main.nav"
-  "main.snm"
   "main.log"
   "main.out"
-  "main.toc"
   "main.aux"
+  "main.snm"
+  "main.toc"
   "main.xdv"
+  "main.nav"

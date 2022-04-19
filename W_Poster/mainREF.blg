@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mainREF.aux
+The style file: apalike.bst
+Database file #1: r-references.bib
+Warning--entry type for "ds003523" isn't style-file defined
+--line 22 of file r-references.bib
+Repeated entry---line 157 of file r-references.bib
+ : @dataset{ds003523
+ :                  ,
+I'm skipping whatever remains of this entry
+You've used 54 entries,
+            1935 wiz_defined-function locations,
+            782 strings with 11895 characters,
+and the built_in function-call counts, 19483 in all, are:
+= -- 1852
+> -- 892
+< -- 40
++ -- 316
+- -- 302
+* -- 1627
+:= -- 3510
+add.period$ -- 163
+call.type$ -- 54
+change.case$ -- 391
+chr.to.int$ -- 50
+cite$ -- 54
+duplicate$ -- 735
+empty$ -- 1286
+format.name$ -- 382
+if$ -- 3665
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 30
+newline$ -- 273
+num.names$ -- 162
+pop$ -- 352
+preamble$ -- 1
+purify$ -- 421
+quote$ -- 0
+skip$ -- 576
+stack$ -- 0
+substring$ -- 1113
+swap$ -- 88
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 316
+warning$ -- 0
+while$ -- 148
+width$ -- 0
+write$ -- 677
+(There was 1 error message)

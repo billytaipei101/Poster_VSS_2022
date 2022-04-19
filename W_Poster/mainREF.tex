@@ -154,55 +154,55 @@
 
 \begin{column}{\colwidth}
 
-  \begin{block}{Results}
+%   \begin{block}{Results}
 
-The first model classified Healthy Controls trials with an accuracy of 86\%; occipital $\alpha$ at encoding provided one of the highest importance values as well as parietal $\theta$ at baseline and parietal $\delta$ at encoding. The second model correctly had an accuracy of 78\% when cross-validated in mTBI data and included $\theta$ and $\beta$ bands of several channels.
+% The first model classified Healthy Controls trials with an accuracy of 86\%; occipital $\alpha$ at encoding provided one of the highest importance values as well as parietal $\theta$ at baseline and parietal $\delta$ at encoding. The second model correctly had an accuracy of 78\% when cross-validated in mTBI data and included $\theta$ and $\beta$ bands of several channels.
 
-Model 3 identified central-parietal $\beta$ at retention and posterior occipital $\gamma$ and $\beta$ at encoding as primary classifiers of diagnosis, providing a 98\% classification accuracy. Model 4 using the incorrect trials only, identified Central $\gamma$ at retention and baseline as primary classifiers of group belongingness. Table 1 presents a summary of the models along with the some of the variables with the larger importance in the construction of EEG classifiers for the given data set, the larger the value the more significant is for the outcome. For a complete list of the variables that resulted for each model along with the R script visit my Github page by scanning the QR code.
+% Model 3 identified central-parietal $\beta$ at retention and posterior occipital $\gamma$ and $\beta$ at encoding as primary classifiers of diagnosis, providing a 98\% classification accuracy. Model 4 using the incorrect trials only, identified Central $\gamma$ at retention and baseline as primary classifiers of group belongingness. Table 1 presents a summary of the models along with the some of the variables with the larger importance in the construction of EEG classifiers for the given data set, the larger the value the more significant is for the outcome. For a complete list of the variables that resulted for each model along with the R script visit my Github page by scanning the QR code.
 
-\begin{table}[]
-\centering
-\caption{Summary of Random Forest Models  with some of the variables with larger importance values}
-\resizebox{\textwidth}{!}{\begin{tabular}{llllcc}
-        \toprule
-\multicolumn{6}{l}{\textbf{Model 1} - \textit{Healthy controls Only} - Accuracy 0.859} \\
-\toprule
-        & Channel & Location & Stage & Frequency & Importance \\
-\midrule
-        & P4    &  Parietal        & Baseline      & \theta           & 2.02            \\
-        & P4    &  Parietal       & Encode       &   \delta        & 1.35           \\
-        & O2    & Occipital         & Encoding      &   \alpha        &    1.13        \\
-\toprule
-\multicolumn{6}{l}{\textbf{Model 2} - \textit{mTBI Only} - Accuracy 0.785} \\
-\midrule
-        & CP2      &  Central-Parietal          &  Retention      &   \theta        &   2.32         \\
-        & TP10     & Temporo-Parietal          & Retention      &   \theta        &       2.31     \\
-        & TP10    & Temporo-Parietal          & Encoding     &   \alpha        &    1.72        \\
-\toprule
-\multicolumn{6}{l}{\textbf{Model 3} - \textit{Correct trials Only}- Accuracy 0.982}\\
-\midrule
-        & CP6     & Central-Parietal         & Retention       & \beta           & 5.24            \\
-        & POz     & Posterior-Occipital          & Encoding       & \gamma          &  4.75          \\
-        & POz      & Posterior-Occipital         & Encoding       &  \beta         &   4.66         \\
-\toprule
-\multicolumn{6}{l}{\textbf{Model 4} - \textit{Incorrect trials Only} - Accuracy 0.947}\\
-\midrule
-        & Cz        & Central         & Retention      & \gamma           &   17.4         \\
-        & Cz       &   Central       & Baseline       &  \gamma         &   16.98         \\
-        & CP6    &  Central-Parietal        & Retention       & \beta    & 15.16           \\
-\bottomrule
-\end{tabular}}
-\end{table}
+% \begin{table}[]
+% \centering
+% \caption{Summary of Random Forest Models  with some of the variables with larger importance values}
+% \resizebox{\textwidth}{!}{\begin{tabular}{llllcc}
+%         \toprule
+% \multicolumn{6}{l}{\textbf{Model 1} - \textit{Healthy controls Only} - Accuracy 0.859} \\
+% \toprule
+%         & Channel & Location & Stage & Frequency & Importance \\
+% \midrule
+%         & P4    &  Parietal        & Baseline      & \theta           & 2.02            \\
+%         & P4    &  Parietal       & Encode       &   \delta        & 1.35           \\
+%         & O2    & Occipital         & Encoding      &   \alpha        &    1.13        \\
+% \toprule
+% \multicolumn{6}{l}{\textbf{Model 2} - \textit{mTBI Only} - Accuracy 0.785} \\
+% \midrule
+%         & CP2      &  Central-Parietal          &  Retention      &   \theta        &   2.32         \\
+%         & TP10     & Temporo-Parietal          & Retention      &   \theta        &       2.31     \\
+%         & TP10    & Temporo-Parietal          & Encoding     &   \alpha        &    1.72        \\
+% \toprule
+% \multicolumn{6}{l}{\textbf{Model 3} - \textit{Correct trials Only}- Accuracy 0.982}\\
+% \midrule
+%         & CP6     & Central-Parietal         & Retention       & \beta           & 5.24            \\
+%         & POz     & Posterior-Occipital          & Encoding       & \gamma          &  4.75          \\
+%         & POz      & Posterior-Occipital         & Encoding       &  \beta         &   4.66         \\
+% \toprule
+% \multicolumn{6}{l}{\textbf{Model 4} - \textit{Incorrect trials Only} - Accuracy 0.947}\\
+% \midrule
+%         & Cz        & Central         & Retention      & \gamma           &   17.4         \\
+%         & Cz       &   Central       & Baseline       &  \gamma         &   16.98         \\
+%         & CP6    &  Central-Parietal        & Retention       & \beta    & 15.16           \\
+% \bottomrule
+% \end{tabular}}
+% \end{table}
 
-  \end{block}
+  % \end{block}
 
-  \begin{block}{Discussion}
+  % \begin{block}{Discussion}
 
-    These analyses indicate that the performance in the VSMW task as well as diagnosis of the subjects based on a trial based classification approach using the Random Forest is useful for classification purposes given the high accuracy of the models; in addition, the resulting set of scalp sites and band frequencies coincide with previous findings in the working memory literature.
+  %   These analyses indicate that the performance in the VSMW task as well as diagnosis of the subjects based on a trial based classification approach using the Random Forest is useful for classification purposes given the high accuracy of the models; in addition, the resulting set of scalp sites and band frequencies coincide with previous findings in the working memory literature.
 
-    For example, some experiments suggest that $\alpha$ varies as a function of memory performance, being smaller during the encoding \citep{klimesch1997eeg}. In addition, $\theta$ band activity has been associated with higher memory load \citep{boonstra2013effects}. $\gamma$ band has been associated with the integration of multi-modal sensory processes in memory tasks, and as $\theta$, it increases with higher cognitive load. Importantly $\gamma$ has been found to support short-term maintenance of information and indicates the recruitment of cognitive resources to match the demands of the cognitive task \citep{howard2003gamma}.
+  %   For example, some experiments suggest that $\alpha$ varies as a function of memory performance, being smaller during the encoding \citep{klimesch1997eeg}. In addition, $\theta$ band activity has been associated with higher memory load \citep{boonstra2013effects}. $\gamma$ band has been associated with the integration of multi-modal sensory processes in memory tasks, and as $\theta$, it increases with higher cognitive load. Importantly $\gamma$ has been found to support short-term maintenance of information and indicates the recruitment of cognitive resources to match the demands of the cognitive task \citep{howard2003gamma}.
 
-  \end{block}
+  % \end{block}
 
   \begin{block}{References}
 
